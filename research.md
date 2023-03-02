@@ -2,187 +2,193 @@
 
 ## 1. 직군 선택 
 
-**💻Back-end 개발**
+**💻Back-End 개발**
 
 
 
 ## 2. 채용 공고
 
-**🔎 [발란](https://career.programmers.co.kr/job_positions/12862?by_theme=true)**
+### 🔎 [ZUZU]([https://career.programmers.co.kr/job_positions/12862?by_theme=true](https://kodebox.career.greetinghr.com/o/14478))
 
-- **자격 조건**
-  - 컴퓨터공학 전공 혹은 그에 준하는 전공 및 지식을 보유하신 분
-  - Node.js 백엔드 개발 및 운영 경험이 있는 분
-  - Git 사용 가능하신 분
-  - MySQL/MariaDB DB 설계, 관리 경험자(테이블 설계, 인덱스, 쿼리 튜닝, 백업 및 복구)
-  - AWS, GCP, Kubernetes 등 Cloud 환경에 대한 경험이 있거나 이해가 있는 분
+**소프트웨어 엔지니어는 이런 일을 해요.**
 
-* **우대사항**
+- 스타트업 대표님들에게 비상장 주식회사의 자본변동(투자유치 등으로 인한 유상증자, 무상증자, 스톡옵션 등) 관련 실무를 지원하는 웹서비스 **ZUZU**를 개발해요. [링크](https://zuzu.network/)
+- **주주, 스톡옵션 보유자를 위한 웹서비스** **ZUZU 포털**을 개발해요. ZUZU 포털에서는 보유 주식과 스톡옵션을 확인하여 주식을 양도하거나 스톡옵션을 행사할 수 있어요.
+- 스타트업과 VC가 서로 편리하게 자료 교환 할 수 있는 웹서비스 **ZUZU for Investor**를 개발해요. [링크](https://zuzu.network/for-vc/)
+- **사업운영팀이 고객사를 대상으로 서비스 운영할 수 있도록** **백오피스**를 개발해요. 법인등기 업무를 간편하게 처리하기 위해 파트너 로펌들도 사용하고 있어요. [링크](https://zuzu.network/partners/legal-partner-list/)
 
-  * Typescript를 사용 가능하거나 경험해 보신 분
+**프로그래밍 언어**
 
-  * Jest를 활용하여 테스트 코드 작성 가능한 분
+- Python, TypeScript, GraphQL
 
-  * 컴퓨터 공학 전공자로 자료구조, 네트워크, 운영체제, 알고리즘에 대한 이해가 있는 분
+**프레임워크**
 
-  * Vue.js를 활용하여 Front-end 개발 경험이 있는 분
+- Django(+Celery), React(+Redux)
 
-  * E-Commerce에 대한 이해가 있는 분
+**인프라**
 
-  * ElasticSearch 사용 경험이 있는 분
+- Google Cloud Platform, Postgresql, docker, Kubernetes, Redis, RabbitMQ
 
-  * MongoDB 사용 겅험이 있는 분
+**협업 도구**
 
-  * Redis 사용 경험이 있는 분
+- Github
+- Notion, Slack, Google Workspace
 
-  * JIRA / Confluence / Bitbucket 사용 경험이 있는 분
+**기타 업무 도구**
 
-  * CI / CD 에 대한 사용 경험 혹은 이해가 있는분
-
-    
-
-**🔎 [당근마켓](https://career.programmers.co.kr/job_positions/12732?by_theme=true)**
-
-- **자격 조건**
-
-  - 익숙한 프로그래밍 언어가 하나 이상 있고, 새로운 언어를 배우는데 거부감이 없으신 분
-  - 서비스를 직접 배포하고 운영해본 경험이 있으신 분
-  - RDBMS, 캐시, 데이터 구조에 대한 이해가 있으신 분
-  - 코드 리뷰에 긍정적이고 원활한 커뮤니케이션이 가능하신 분
-
-- **우대사항**
-
-  - 사용자 경험과 서비스 백오피스 운영 도구의 중요성에 대한 이해가 있으신 분
-
-  - 간단한 프론트엔드 개발도 무섭지 않으신 분
-
-  - 복잡한 내용에 대해 말 또는 글로 설명을 쉽게 잘하시는 분
-
-    
-
-🔎 **[쏘카](https://career.programmers.co.kr/job_positions/11871?by_theme=true)**
-
-* **자격 조건**
-  * 최고가 되기 위해 지속적으로 학습하고 실천하는 분
-  * 개인의 성장과 더불어 동료의 성장을 도모하는 분
-  * 코드 중심 커뮤니케이션을 원활히 하는 분
-  * 웹 서비스에 대해 이해하고 있는 분
-  * TDD에 대한 이해 및 개발 역량이 있는 분
-  * Java, Kotlin, JavaScript/TypeScript 언어(택1)에 대한 전문가 수준의 이해 및 활용 능력이 있는 분
-  * System Architecture 이해 및 작성 능력을 보유한 분
-  * Stakeholder와의 커뮤니케이션 역량을 가진 분
-* **우대사항**
-  * 모빌리티 도메인에 대한 이해가 있는 분
-  * 웹 서비스 개발 프레임워크에 대해 높은 활용력 및 통찰력을 지닌 분 - Spring/Spring Boot, [Node.js/Express](http://node.js/Express)
-  * Container 및 가상화 기반 서비스 개발 및 운용 환경을 경험하신 분
-  * Microservice Architecture 기반의 서비스 시스템 설계 경험이 있는 분
-  * Async Service Architecture 기반의 서비스 시스템 설계 및 활용이 가능한 분
-  * AWS 혹은 GCP 기반 서비스를 사용할 수 있는 분
+- Figma, GA, GTM, Bigquery, Data Studio, Pipedrive, Mailchimp
 
 
 
-🔎 **[큐픽스](https://www.jumpit.co.kr/position/10384)**
+**자격요건**
 
-* **자격 조건**
-  * Python / Node.js / Ruby 중 하나 이상 언어에 능통
-  * 클라우드 환경에서 서비스 운영 경험
-  * 최신 웹 기술 및 REST API에 대한 이해
-* **우대사항**
-  * Ruby on Rails 이용한 개발 및 운영 경험
-  * 대규모 트래픽 및 글로벌 서비스 경험 
-  * Elastic Stack 사용 경험
-  * Infrastructure 구축 경험 (Terraform, Ansible, etc.)
+- 비즈니스 요구 사항을 정확하게 이해하고 Django 데이터 모델과 API를 구현할 수 있는 분
 
+- React, Redux, GraphQL 등을 이용해서 웹앱을 구현할 수 있는 분
 
+- Google Cloud Platform을 사용해 보신 분
 
-🔎 **[이디엠에듀케이션](https://www.rocketpunch.com/jobs/122631/php%EA%B0%9C%EB%B0%9C%EC%9E%90-Back-End-%EC%B1%84%EC%9A%A9)**
+- 서비스 구현과 설계하는 일이 즐거우신 분
 
-* **자격 조건**
-  * Php 개발 경력 1~6년 (역량에 따라 신입도 지원 가능)
-  *  MySQL 등 RDBMS 개발 경험자
-  * Git 분산 버전관리 시스템 경험자
-  * 새로운 기술, 환경에 대한 열린 자세
-* **우대사항**
-  * Restful API 를 활용한 개발 경험자
-  * CI/라라벨(Laravel) 프레임워크 경험자
-  * AWS 등 클라우드 서비스 환경 경험자
+- 사용자가 겪는 불편함을 참을 수 없는 분
 
+  
 
+**우대사항**
 
-🔎 **[카카오엔터프라이즈](https://career.programmers.co.kr/job_positions/12891?by_theme=true)**
+* TypeScript, Python 개발 경력이 2년 이상이신 분
+* 컴퓨터공학 혹은 관련 학과를 전공하신 분
+* 스타트업을 창업해보셨거나 신규 서비스를 런칭해 보신 분
+* O2O 상용 서비스를 개발 및 운영해 보신 분
+* B2B 상용 서비스를 개발 및 운영해 보신 분
+* 법무, 세무 서비스를 개발 및 운영해 보신 분
 
-* **자격 조건**
-  *  CS 관련 기반 지식(자료구조, 알고리즘 등)
-  * 웹서비스 혹은 분산처리/빅데이터 프레임워크에 대한 개발 및 운용 경험
-  * 새로운 서비스 개발 및 문제 해결을 위한 적극적인 자세
+### 🔎 [AENTS](https://aents.notion.site/AENTS-Job-Description-9e087ffc43ee499ead27c4ee36e472b9?p=e58f8e8657d641e48b9d141a3a502ed9&pm=s)
 
-* **우대사항**
-  * 빅데이터 아키텍처 설계 경험 혹은 3년이상의 빅데이터 프레임워크 개발/운용
-  * Java/Kotlin & Spring Framework (Spring boot)를 이용한 대용량 트래픽 실서비스 경험
-  * AI, 빅데이터, 분석 도메인에 대한 이해
-  * Kubernetes, Docker등의 환경 경험
-  * Elasticsearch, Solr 등 DB, 검색 기술에 대한 이해
+**주요업무**
 
+탄소 회계를 위한 SaaS를 개발합니다.
 
+사용중인 주요 프레임워크 및 라이브러리는 아래와 같습니다.
 
-🔎 **[위대한 상상](https://career.programmers.co.kr/companies/1007)**
+- Python 3.8
 
-* **자격 조건**
-  * Java(혹은 Python, Node.js 등)를 사용한 3년 이상의 개발 경력
-  * 현업의 비즈니스를 분석하고 요구사항 수렴을 통해 시스템을 설계하고 구축한 경험 특히, 커뮤니케이션을 통해 구체적인 니즈를 파악할 수 있는 역량
-  * 관계형 데이터베이스의 이해 및 Oracle, MySQL, MariaDB 중 1개 이상을 활용한 데이터 설계/개발/운영 경험
-  * 커뮤니케이션 통해 서비스를 효과적이고 직관적으로 설계하고 구현하여 업무를 자동화/정보화 하는 일에 긍정적인 마인드
-* **우대사항**
-  * UI Framework/Javascript Library(ex, VUE.js, REACT, JQuery 등), javascript, Web framework (ex, Django, Spring 등)를 사용한 웹 개발 경력
-  * 인사/재무/회계/마케팅/영업/콜센터 등 다양한 분야의 IT서비스 구축/운영 경험
-  * RESTful API와 이를 이용한 Web 서비스의 이해
-  * 모바일 웹 개발 혹은 구축 리딩 경험
-  * AWS 환경에서 서비스 구축 경험, GitHub/Jenkins 등 형상관리, 배포관리 툴 활용 경험
-  * ITIL, DevOps, SRE 등 IT서비스관련 프로세스에 대한 이해/경험, 서비스 인시던트/문제를 대응하고 해결한 경험
-  * 애플리케이션 보안과 개인정보보호에 대한 이해
+  - Flask
+  - FastAPI
+
+- Docker
+
+- MongoDB, InfluxDB
+
+  
+
+**자격요건**
+
+- Linux, DB, HTTP, REST API 등에 대한 기본적인 이해가 있으신 분
+- 스타트업에서만 할 수 있는 새로운 경험을 통해 함께 성장하고자 하는 분
 
 
 
-🔎 **[포자랩스](https://career.programmers.co.kr/job_positions/10933?by_theme=true)**
+**우대사항**
 
-* **자격 조건**
-  * 파이썬 백엔드 개발 경험이 있으신 분
-  * 모던 파이썬 (타입 힌트 등)을 이해하고 사용하시는 분
-  * 사용자 친화적인 API란 무엇인지 고민하시는 분
-  * 커뮤니케이션의 중요성을 아시는 분
-  * 유지보수하기 쉬운 코드를 작성하시는 분
-  * 해외여행에 결격사유가 없으신 분
-* **우대사항**
-  * 디지털 오디오에 대한 이해가 있으신 분
-  * 분산 작업 큐/워크플로우 개발 경험이 있으신 분 (Celery, AWS Step Functions 등)
-  * Docker, Terraform, AWS 등 클라우드 관련 기술에 익숙하신 분
+- FastAPI, Sanic 등 ASGI 프레임워크를 사용한 경험이 있는 분
 
+- IT 기술을 이용해 탄소중립 문제를 해결하는 데에 기여하고 싶으신 분
 
+  
 
-🔎 **[애드쉴드](https://career.programmers.co.kr/job_positions/12832?by_theme=true)**
+### 🔎 [위시켓](https://www.wanted.co.kr/wd/145367)
 
-* **자격 조건**
-  * 어려운 문제에 대해 도전정신을 가지고 연구하는 것을 즐기는 분
-  * 웹 브라우저 동작 방식 및 HTML/CSS/Javascript에 대한 깊은 이해가 있는 분
-* **우대사항**
-  * 애드블록 기술에 대한 관심이 있으신 분
-  * 후킹, 템퍼링 등 보안 기술에 관심이 있으신 분
-  * 네트워크에 대한 지식이 있으신 분
-  * 애드쉴드의 광고를 차단할 수 있는 분
+**주요업무**
+
+* 위시켓 통합계정 서비스 운영 및 개선을 담당합다.
+* Python(Django), JavaScript(React.js, jQuery)를 이용한 웹 개발 업무를 수행합니다.
+* 위시켓이 운영하는 각 서비스에 필요로 하는 신규 기능을 개발하거나, 기존 기능을 개선하는 업무를 수행합니다.
 
 
 
-🔎 **[맥스트](https://career.programmers.co.kr/job_positions/10931?by_theme=true)**
+**자격요건**
 
-* **자격 조건**
-  * 신입 또는 경력 3년 미만
-  * HTTP 통신에 대한 기본적인 이해, RESTful API에 대한 설계/개발 경험이 있는 분
-  * Linux의 기본적인 명령어들을 사용할 수 있고, EC2에 기본적인 패키지들을 설치하실 수 있는 분
-  * 기본적인 SQL 문법, JOIN, Subquery 등을 활용할 줄 아는 분
-  * 새로운 기술을 적극적으로 수용하고 적용하기 위해 노력하는 분
-  * git을 이용한 협업에 익숙하고, 주도적으로 문제를 찾고 해결하는 능력을 가지신 분
-  * 위 언급되어있는 개념들을 몰라도 빠르게 내 것으로 만들 수 있는 나만의 학습법을 가지고 계신 분
-* **우대사항**
-  * React를 활용한 웹 애플리케이션 개발 경험
-  * nodejs/python/c#/java를 활용한 서버 애플리케이션 개발 경험
-  * 검토용 코드 혹은 git hub 리포지토리 주소 제출 요망
+* 기획자, 디자이너와의 원활한 커뮤니케이션 가능하신 분
+  • 유저 중심의 서비스 개발 및 운영 마인드 보유한 분
+  • 문제를 논리적으로 풀어나가는 능력이 있는 분
+  • "왜?'라는 질문과 답변에 대한 익숙하신 분
+  • 다양한 케이스를 고려하여 최적의 결과를 만들어 내는 능력이 있는 분
+
+  
+
+**우대사항**
+
+* 테스트 코드 작성과 리팩토링에 적극적인 분
+* 도메인 주도 설계와 개발에 관심있는 분
+* 문서화의 필요성에 공감하는 분
+* 웹 프론트엔드 및 퍼블리싱에 대한 이해가 있는 분
+* 오픈소스 프로젝트 참여 또는 커뮤니티 활동 경험이 있는 분
+* 고양이에 대한 애정이 있는 분
+
+
+
+### 🔎 [모두의충전](https://gleaming-earl-cc3.notion.site/6c4a562d01094844976984b67d46db7c?p=19d7038031f24c80a5468119d3c00b85&pm=s)
+
+**자격요건**
+
+* 기본적인 Python 사용 경험이 있으신 분
+* Spring, Flask, Laravel 등 백엔드 프레임워크 사용 경험이 있으신 분
+* RDBMS 사용 경험이 있으신 분
+* 클린 아키텍쳐에 관심이 많으신 분
+* 자기 분야에 대한 자발적 학습에 열정적인 분
+
+ 	
+
+**우대사항**
+
+* Flask 프레임워크를 통해 서비스를 제공하신 경험이 있으신 분
+* 코드리뷰의 필요성을 이해하고, 즐기시는 분
+* RESTful API에 대한 기본적인 이해가 있으신 분
+* 데이터베이스 설계에 대한 이해가 있으신 분
+
+
+
+**기술스택**
+
+- 언어: Python
+
+- 데이터베이스: MySQL
+- 개발환경 및 도구: Flask, Git, Gunicorn, Nginx, AWS, NCloud, Ubuntu
+
+
+
+### 🔎 [휴레이포지티브](https://www.wanted.co.kr/wd/143848)
+
+**주요 업무**
+
+- 디지털 헬스케어 플랫폼 및 서비스 백엔드
+- 디지털 헬스케어 플랫폼 및 서비스 개발, 유지보수
+
+
+
+**자격요건**
+
+* 마이크로서비스를 CI/CD를 적용해 개발할 수 있으신 분
+* 24/7 가용한 서버를 개발할 수 있으신 분
+* Linux 운영체제에 친숙하신 분
+* adhoc하게 프로그램을 작성하여 실험적인 일을 빠르게 처리할 수 있으신 분
+
+
+
+**우대사항**
+
+* 리눅스 시스템 프로그래밍 및 운영체제 등 로우 레벨을 이해하시는 분
+* Java 기술 스택을 경험해 보신 분
+* 오픈소스에 기여한 경험이 있으신 분
+* FE 기술 스택을 조금 경험해 보신 분
+
+
+
+**사용 기술**
+
+- Python3, asyncio, Flask, Django
+- Linux, Git, Unix tools
+- Docker, Kubernetes
+- RDB
+- AWS, NCP
